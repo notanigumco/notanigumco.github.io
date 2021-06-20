@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
 
 * {
     box-sizing: border-box;
@@ -7,6 +7,6 @@
 }
 
 .navbar {
-    font-family: 'Share+Tech', sans-serif;
+    font-family: 'Titillium+Web', sans-serif;
     color: red
 }
