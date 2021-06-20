@@ -10,3 +10,7 @@
     font-family: 'Roboto Condensed', sans-serif;
     color: #00a3ff
 }
+
+.navbar ul{
+    list-style-type: none
+}
