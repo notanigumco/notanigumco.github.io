@@ -9,10 +9,11 @@
 .navbar h1{
     font-family: 'Orbritron', sans-serif;
     color: #00a3ff
+    margin: 10px 0;
 }
 
 .navbar ul{
-    list-style-type: none
+    list-style-type: none 
     font-family: 'Roboto+Condensed', sans-serif;
 }
 
