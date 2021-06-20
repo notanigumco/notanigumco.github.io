@@ -1,1 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
 
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    font-family: 'Share+Tech', sans-serif;
+    color: red
+}
