@@ -19,7 +19,7 @@ header::after {
 
 .logo {
     float: left;
-    height: 15px;
+    height: 1em;
     width: auto;
 }
 
