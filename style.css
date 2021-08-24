@@ -11,6 +11,12 @@ header {
     background-color: #ffc369;   
 }
 
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
 .logo {
     float: left;
 }
@@ -18,4 +24,6 @@ header {
 nav {
     float: right;
 }
+
+
 
