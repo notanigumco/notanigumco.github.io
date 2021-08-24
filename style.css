@@ -1,11 +1,13 @@
-/* Header */
 body {
+    margin: 0;
 }
 
 .container {
     width: 90%;
     margin: 0 auto;
 }
+
+/* Header */
 
 header {
     background-color: #ffc369;   
@@ -23,6 +25,11 @@ header::after {
 
 nav {
     float: right;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
 }
 
 
