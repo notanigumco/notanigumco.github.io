@@ -43,6 +43,7 @@ nav li {
     display: inline-block;
     margin-left: 70px;
     padding-top: 23px;
+    position: relative;
 }
 
 nav ul li a {
@@ -53,4 +54,13 @@ nav ul li a {
 
 nav a:hover {
     color: #eb4034
+}
+
+nav a::before {
+    content: "";
+    display: block;
+    height: 5px;
+    width: 100%;
+    background-color: #eb4034;
+    position: absolute;
 }
