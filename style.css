@@ -26,7 +26,7 @@ header::after {
 }
 
 .logo:hover {
-    box-shadow: 7px 7px 5px #444444;
+    box-shadow: 0 0 10px #bab8b8;
 }
 
 nav {
