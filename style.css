@@ -25,7 +25,7 @@ header::after {
     height: 45px;
 }
 
-.logo-link:hover {
+.logo:hover {
     box-shadow: 7px 7px 5px #444444;
 }
 
