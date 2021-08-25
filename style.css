@@ -22,7 +22,7 @@ header::after {
 .logo {
     float: left;
     padding: 10px 0;
-    height: 80px;
+    height: 65px;
 }
 
 .logo-link a:hover {
