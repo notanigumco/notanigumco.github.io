@@ -64,9 +64,10 @@ nav a::before {
     background-color: #eb4034;
     position: absolute;
     top: 0;
-    width: 0%
+    width: 0%;
+    transition: all ease-in-out 250ms;
 }
 
 nav a:hover::before {
-    width: 100%
+    width: 100%;
 }
