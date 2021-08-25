@@ -36,6 +36,7 @@ nav {
 nav ul {
     list-style-type: none;
     margin: 0;
+    font-family: 'Raleway', sans-serif;
 }
 
 nav li {
