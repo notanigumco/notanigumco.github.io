@@ -50,3 +50,7 @@ nav ul li a {
     color: #444;
     text-transform: uppercase;
 }
+
+nav a:hover {
+    color: #eb4034
+}
